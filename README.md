@@ -1,8 +1,4 @@
 # hello-world
-Creating a Hello World Repository
-
-
-Hello World!
 
 
 Is anybody actually reading this?? 
